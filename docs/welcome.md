@@ -11,4 +11,4 @@ Before you start any recipes, start with how to find spices instructions
 to familiarize yourself with the pantry. There is no need to look at any
 of the other steps that are outside recipes unless they are referenced.
 
-{% index.html %}
+{% include footer.md %}

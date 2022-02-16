@@ -1,48 +1,3 @@
-# Tools and Requirements
-
--   Clean Hands
-
-
-# How to find a cutting board
-
-## Requirements
-
--   None
-
-## Steps
-
-1.  Go stand and face the stove in the kitchen.
-
-2.  Open the bottom right drawer touching the stove.
-
-3.  Grab a cutting board.
-
-**Note:** There are two levels; look for a cutting board in the second.
-
-# How to cook biscuits
-
-1.  Preheat the oven to 400 degrees.
-
-**Note:** This is simple on our oven, press the bake button twice
-
-2.  Get out the biscuits from the refrigerator, it should be a blue
-    cylinder that says Pillsbury on it.
-
-3.  Get the dark grey oven pan from below the oven before it gets too
-    hot.
-
-4.  Place biscuits 2 inches apart and move the pan to the left of the
-    stove.
-
-5.  Place pan into oven once the stove beeps and shows the temperature
-    at 400 degrees.
-
-6.  Remove pan after 11 minutes using the red gloves
-
-**Note:** The gloves are in the top drawer to the right of the sink.
-
-7.  Grab a plate from the right-most top cabinet and put all the
-    biscuits on them.
 
 # Hashbrown, sausage, egg bowl for Mom
 
@@ -50,28 +5,18 @@ Hey Mom! This is an excellent choice for breakfast. You should start
 with the hashbrowns how to section, but when you are waiting for 15
 minutes you should cook everything else.
 
-Ingredients
-
+## Ingredients
 -   Frozen Hashbrowns
-
 -   Pre-cooked Beef Sausage
-
 -   2 Large Eggs
-
 -   1 tsp Whole Milk
-
 -   Half a Tomato
 
 ## Required Cookery
-
 -   Toaster Oven
-
 -   Medium Sized Saucepan (Largest red saucepan)
-
 -   Cutting Board
-
 -   Knife
-
 -   Orange Bowl
 
 -   Purple Bowl
@@ -158,6 +103,7 @@ screen says convection.
     > hashbrowns
 
 I hope these instructions were clear and you and enjoy the bowl!
+
 
 # Sausage Biscuits for Mom
 

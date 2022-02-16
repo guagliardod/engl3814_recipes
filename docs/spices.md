@@ -16,4 +16,4 @@ This short section will show you how to find any spices that you may need.
 5. Find the spice you want.
 	**Note:** You may have to move some around to find them.
 
-{% index.html %}
+{% include footer.md %}
