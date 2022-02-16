@@ -26,3 +26,7 @@
   - [Required Cookery](vegan_sausage_biscuits.md#Required Cookery)
   - [How to cook biscuits](vegan_sausage_biscuits.md#How to cook biscuits)
   - [How to cook vegan sausage patties](vegan_sausage_biscuits.md#How to cook vegan sausage patties)
+- [How to cook JUST scrambled eggs](vegan_scrambled.md#Scrambled Eggs with Tomatoes, Jalapeños, and Onion)
+  - [Ingredients](vegan_scrambled.md#Ingredients)
+  - [Required Cookery](vegan_scrambled.md#Required Cookery)
+  - [Steps](vegan_scrambled.md#Steps)
