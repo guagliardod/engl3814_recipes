@@ -26,6 +26,7 @@ use, and directions to get to these things will be included.
 1.  Open the freezer, this is the top drawer on the refrigerator.
 2.  Grab the small bags that say MorningStar Farms on them.  See Figure 1 for more details.
 	![](images/media/morning_star.png)
+	[Figure 1](https://i5.peapod.com/c/DU/DUA4M.png)
 3.  Open the bag and grab one patty out and place the bag back in the freezer.
 4.  Grab a plate from the first set of cabinets above the counter that are next to the refrigerator.
 5.  Put the sausage patty on the plate and put it in the microwave for 30 seconds on each side.
