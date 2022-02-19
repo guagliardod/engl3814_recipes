@@ -2,9 +2,14 @@
 
 All of the needed materials are not in the requirements section but instead the steps to find those ingredients and cookware will be provided
 
-## Requirements
+## Ingredients
 
-- None
+-   Pillsbury Biscuits
+
+## Required Cookery
+
+-   Oven
+-   Oven pan/sheet
 
 ## Steps
 
