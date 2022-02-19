@@ -27,13 +27,13 @@ minutes you should cook everything else.
 
 1.  Open freezer.
 2.  Grab blue Kroger brand bag next to the ice machine on the top shelf.
-**Note:** this is the only bag on this top shelf.
+> **Note:** this is the only bag on this top shelf.
 3.  Grab 1 and place the bag back in the freezer.
 4.  Open toaster oven.
 5.  Pull tray out and place the hashbrown patty on to it.
 6.  Press the only button on the control panel in the top right corner.
 7.  Turn on toaster oven to convection at 450 degrees for 7 minutes.
-**Note:** To change to convection twist the top left nozzle until the screen says convection.
+> **Note:** To change to convection twist the top left nozzle until the screen says convection.
 8.  When the time is done flip and put it on again for 8 more minutes.
 9.  Take out and let cool
 
@@ -43,7 +43,7 @@ minutes you should cook everything else.
 2.  Grab a knife from one of the knife sets on either side of the oven.
 3.  Open the fridge and look towards the top shelf.
 4.  Grab the pack of 3 sausages and take one out.
-**Note:** The bag is open because I already ate one.
+> **Note:** The bag is open because I already ate one.
 5.  Cut the sausage into tiny pieces, no larger than the size of your pinky fingernail.
 6.  Grab the medium sized saucepan from the drawers that are to the left of the refrigerator.
 7.  Place sausage into plan

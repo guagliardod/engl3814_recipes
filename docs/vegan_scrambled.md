@@ -25,17 +25,17 @@ will use, and directions to get to these things will be included.
 2.  Place on burner and turn on to medium.
 3.  Read [these](cutting_board.md#How to find a cutting board) directions on finding a cutting board.
 4.  Empty the clear bag onto the cutting board, this should contain a jalapeño, tomato, and an onion
-**Note:** The bag is on the top shelf of the refrigerator
+> **Note:** The bag is on the top shelf of the refrigerator
 5.  Cut the tomato into small pieces that are no bigger than your pinky finger.
 6.  Cut the jalapeño into similarly sized pieces, discarding the end with a stem.
 7.  Cut the one end of the onion off and then cut a half inch thick portion of onion off.
 8.  Put the rest in the bag and back in the refrigerator.
 9.  Dice this small section of onion into small pieces similar to the others.
 10. Grab the JUST Eggs from the top shelf of the refrigerator.
-**Note:** Check out Figure 1 for a picture of the bottle.
+> **Note:** Check out Figure 1 for a picture of the bottle.
 11. Put all the diced vegetables into the saucepan.
 12. Open the JUST Eggs and pour it until it is the same height as the vegetables.
-**Note:** if you are hungry pour more
+> **Note:** if you are hungry pour more
 13. Mix/Move things around in the pan until the eggs are dark yellow/light brown.
 14. Grab a plate from the first set of cabinets above the counter that are next to the refrigerator.
 15. Pour the eggs and vegetables out of the pan into the plate.
