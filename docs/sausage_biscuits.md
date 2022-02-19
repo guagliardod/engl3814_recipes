@@ -21,7 +21,7 @@ Hey Mom! This is one of my classic breakfasts. I will show you how I would make 
 1.  Grab the medium sized saucepan from the drawers that are to the left of the refrigerator.
 2.  Place on burner and turn on to medium.
 3.  Read [these](cutting_board.md#How to find a cutting board) directions on finding a cutting board.
-4.  Grab Jimmy Dean raw original flavored sausage from the refrigerator top shelf
+4.  Grab Jimmy Dean raw original flavored sausage from the refrigerator top shelf.
 5.  Grab a knife from one of the knife sets on either side of the oven.
 6.  Cut open the bag.
 7.  Cut half inch patties of sausage.

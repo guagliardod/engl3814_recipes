@@ -46,7 +46,7 @@ minutes you should cook everything else.
 > **Note:** The bag is open because I already ate one.
 5.  Cut the sausage into tiny pieces, no larger than the size of your pinky fingernail.
 6.  Grab the medium sized saucepan from the drawers that are to the left of the refrigerator.
-7.  Place sausage into plan
+7.  Place sausage into pan.
 8.  Place pan onto any stove and turn it to medium.
 9.  Proceed to the egg cooking section.
 
@@ -62,7 +62,7 @@ minutes you should cook everything else.
 8.  Pour tomatoes and eggs into saucepan with the now heated up sausage.
 9.  Grab a spoon from the closest draw on the right.
 10. Mix/Move things around until the eggs are to your liking.
-11. When done dump into the purple bowl and mix with completed hashbrowns
+11. When done dump into the purple bowl and mix with completed hash browns.
 
 I hope these instructions were clear and you and enjoy the bowl!
 

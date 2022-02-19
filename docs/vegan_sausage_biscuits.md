@@ -18,7 +18,7 @@ use, and directions to get to these things will be included.
 
 ## How to cook biscuits
 
-1.  Go [here](biscuits.md#How to cook biscuits) to find the directions on cooking biscuits 
+1.  Go [here](biscuits.md#How to cook biscuits) to find the directions on cooking biscuits. 
 > **Note:** This takes much longer than the sausage to cook so do not start both that the same time.
 
 ## How to cook vegan sausage patties
