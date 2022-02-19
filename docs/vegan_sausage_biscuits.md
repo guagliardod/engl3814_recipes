@@ -34,3 +34,5 @@ use, and directions to get to these things will be included.
 7.  Break the biscuit in half and place sausage patty in the biscuit.
 
 I hope you enjoy the meal, and these instructions were helpful. If there were any rough parts please let me know.
+
+{% include footer.md %}
