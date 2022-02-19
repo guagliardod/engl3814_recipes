@@ -21,7 +21,7 @@
   - [Required Cookery](sausage_biscuits.md#Required Cookery)
   - [How to cook sausage patties](sausage_biscuits.md#How to cook sausage patties)
   - [How to complete sausage biscuits](sausage_biscuits.md#How to complete sausage biscuits)
-- [How to cook vegan sausage biscuits](sausage_biscuits.md#How to cook sausage biscuits)
+- [How to cook vegan sausage biscuits](vegan_sausage_biscuits.md#How to cook sausage biscuits)
   - [Ingredients](vegan_sausage_biscuits.md#Ingredients)
   - [Required Cookery](vegan_sausage_biscuits.md#Required Cookery)
   - [How to cook biscuits](vegan_sausage_biscuits.md#How to cook biscuits)
