@@ -39,7 +39,7 @@ minutes you should cook everything else.
 
 ## How to warm up Sausage
 
-1.  See the section for "How to find a cutting board" above.
+1.  See [this](cutting_board.md#How to find a cutting board) section for finding a cutting board.
 2.  Grab a knife from one of the knife sets on either side of the oven.
 3.  Open the fridge and look towards the top shelf.
 4.  Grab the pack of 3 sausages and take one out.
