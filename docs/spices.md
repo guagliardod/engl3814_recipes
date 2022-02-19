@@ -1,6 +1,6 @@
 # How to find a spice
 
-This short section will show you how to find any spices that you may need.
+This short section will show you how to find any spices that you may need.  Once you have opened the door there is no need to keep closing it, it will be more convenient if you keep it open.  This section is meant not to be used on its own but together with another recipe that requires spices from the pantry.
 
 ## Requirements
 

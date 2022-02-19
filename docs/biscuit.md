@@ -10,6 +10,8 @@ All of the needed materials are not in the requirements section but instead the 
 
 -   Oven
 -   Oven pan/sheet
+-   Red oven gloves
+-   Plate
 
 ## Steps
 
