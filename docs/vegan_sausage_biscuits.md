@@ -31,7 +31,9 @@ use, and directions to get to these things will be included.
 4.  Grab a plate from the first set of cabinets above the counter that are next to the refrigerator.
 5.  Put the sausage patty on the plate and put it in the microwave for 30 seconds on each side.
 6.  Wait for the biscuits to be completed.
-7.  Break the biscuit in half and place sausage patty in the biscuit.
+7.  Grab a knife from one of the wooden knife holders.
+8.  Cut as many biscuit(s) as you did sausage(s).
+9.  Place the sausage(s) into the biscuit(s).
 
 I hope you enjoy the meal, and these instructions were helpful. If there were any rough parts please let me know.
 
