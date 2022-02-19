@@ -25,7 +25,6 @@ use, and directions to get to these things will be included.
 
 1.  Open the freezer, this is the top drawer on the refrigerator.
 2.  Grab the small bags that say MorningStar Farms on them.  See Figure 1 for more details.
-> **Note:** The full name is above in the ingredients section.
 	![](images/media/morning_star.png)
 3.  Open the bag and grab one patty out and place the bag back in the freezer.
 4.  Grab a plate from the first set of cabinets above the counter that are next to the refrigerator.
