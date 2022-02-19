@@ -35,7 +35,7 @@ minutes you should cook everything else.
 7.  Turn on toaster oven to convection at 450 degrees for 7 minutes.
 > **Note:** To change to convection twist the top left nozzle until the screen says convection.
 8.  When the time is done flip and put it on again for 8 more minutes.
-9.  Take out and let cool
+9.  Take out and let cool.
 
 ## How to warm up Sausage
 
