@@ -26,7 +26,7 @@ Hey Mom! This is one of my classic breakfasts. I will show you how I would make 
 
 ## How to complete sausage biscuits
 
-1.  See the section on cooking biscuits near the top first.
+1.  See the section on [cooking biscuits](biscuit.md#How to cook biscuits).
 2.  Grab another knife and a biscuit from the plate.
 3.  Cut the biscuit in half and add a sausage patty.
 
