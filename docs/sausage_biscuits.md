@@ -5,12 +5,15 @@ Hey Mom! This is one of my classic breakfasts. I will show you how I would make 
 ## Ingredients
 
 -   Jimmy Dean raw original flavored sausage
+-   Pillsbury Biscuits
 
 ## Required Cookery
 
 -   Stove
+-   Oven
 -   Medium Sized Saucepan (Largest red saucepan)
 -   Spatula
+-   Oven pan
 -   Cutting board
 
 ## How to cook sausage patties
