@@ -8,7 +8,7 @@ This short section will show you how to find any spices that you may need.
 
 ## Steps
 
-1. Please go into the kitchen between the island the 
+1. Please go into the kitchen between the island the stove.
 2. Go to the door with the bag handing down.
 > **Note:** This may already be open if it is skip to instruction 3.
 3. Open the pantry door.
